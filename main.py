@@ -23,10 +23,10 @@ import os
 
 bot = Client(
     "bot",
-         bot_token= "6763408781:AAEMgOCwslBalYr2dpxzGRMZPpBEDm8NDhA",
-         api_id=10499690,
-         api_hash= "87d0414dc159c10225cac921edde640a")
-auth_users = [6908647977,-1002053009109]
+         bot_token= "6397997395:AAFEySHy6SdRs26HEa_Ey2wz5VxwcqS6qho",
+         api_id=29023986,
+         api_hash= "895fde5d06418650fdcce2fddebe8276")
+auth_users = [6756781098]
 
 
 @bot.on_message(filters.command(["start"]))
