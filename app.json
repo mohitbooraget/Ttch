@@ -1,7 +1,7 @@
 {
     "name":"pyro",
     "description":"Download videos from various websites using this telegram bot",
-    "repository":"https://github.com/Adrenalinators/TXTLeechBot",
+    "repository":"https://github.com/mohitbooraget/Ttch",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
@@ -16,19 +16,19 @@
     "env": {
         "API_ID":{
             "description": "Get your telegram API ID from https://my.telegram.org",
-            "value":"29023986"
+            "value":"23291931"
         },
         "API_HASH":{
             "description":"Get your telegram API HASH from https://my.telegram.org",
-            "value":"895fde5d06418650fdcce2fddebe8276"
+            "value":"4b11dd648188731fb7c9bc8083e8791c"
         },
         "BOT_TOKEN":{
             "description":"Get from BotFather",
-            "value":"6397997395:AAFEySHy6SdRs26HEa_Ey2wz5VxwcqS6qho"
+            "value":"7120497132:AAGWW5GfPgQG0D4fu4llnfY_KY3_GnurtDc"
         },
         "AUTH_USERS":{
             "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
-            "value":"6756781098"
+            "value":"6594402123"
         }
     }
 }
